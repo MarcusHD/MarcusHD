@@ -6,7 +6,7 @@
 
 <!--
 Discord: MarcusHD#1863
-Twitter:
+Twitter: @marcus_davidsen
 Twitch: zeazonhd
 -->
 
