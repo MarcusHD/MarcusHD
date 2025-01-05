@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @MarcusHD
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on A serious Roleplay Project in Unreal Engine
-- 📫 How to reach me !Contacs below!
+- 👀 I do freelance code work (LUA/JS/C#)
 
 <!--
 Discord: MarcusHD#1863
